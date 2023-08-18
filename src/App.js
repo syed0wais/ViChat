@@ -31,7 +31,7 @@ import {
 
 
 import { app } from "./firebase";
-import { async } from "@firebase/util";
+
 
 const auth = getAuth(app);
 const db = getFirestore(app);
