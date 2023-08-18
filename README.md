@@ -13,4 +13,4 @@ A chatroom build using React JS & Firebase.
  Open the project and execute `npm start` in the terminal.
 
 ## Screenshots
-![enter image description here](https://github.com/syed0wais/archives/blob/master/vichat.png){:height="100px" width="100px"}
+![enter image description here](https://github.com/syed0wais/archives/blob/master/vichat.png){:height="50px" width="50px"}
