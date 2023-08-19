@@ -7,4 +7,7 @@ A chatroom build using React JS & Firebase.
  - Multi-user support
  
 ## Screenshots
-<img src="https://github.com/syed0wais/archives/blob/master/vichat.png"  width="300" height="500">
+<img src="https://github.com/syed0wais/archives/blob/master/vichat/ss1.jpg"  width="300" height="600"> <img src="https://github.com/syed0wais/archives/blob/master/vichat/ss2.jpg"  width="300" height="600">
+
+
+
